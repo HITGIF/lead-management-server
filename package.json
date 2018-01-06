@@ -18,7 +18,10 @@
   "dependencies": {
     "angular-patternfly": "^4.13.3",
     "express": "^4.15.3",
-    "firebaseui": "^2.5.1"
+    "firebaseui": "^2.5.1",
+    "sockjs": "^0.3.19",
+    "typescript": "^2.6.2",
+    "ws": "^4.0.0"
   },
   "homepage": "https://github.com/jboss-outreach/lead-management-server#readme"
 }
